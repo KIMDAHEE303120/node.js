@@ -1,0 +1,4 @@
+&lt;script&gt;
+alert('메롱');
+//location.href = //'http://www.naver.com'
+&lt;/script&gt;
